@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 2861e4b0c741e4fff9c5bc02231550ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Active Camera
+    100002: //RootNode
+    100004: Default
+    100006: Front
+    100008: Perspective
+    100010: Right
+    100012: Top
+    100014: "\uAE30\uBCF8\uAC12"
+    100016: "\uAE30\uBCF8\uAC12 1"
+    100018: "\uAE30\uBCF8\uAC12 2"
+    100020: "\uAE30\uBCF8\uAC12 3"
+    100022: "\uAE30\uBCF8\uAC12 4"
+    100024: "\uAE30\uBCF8\uAC12 5"
+    100026: "\uAE30\uBCF8\uAC12 6"
+    100028: "\uAE30\uBCF8\uAC12 7"
+    100030: "\uAE30\uBCF8\uAC12 8"
+    100032: "\uAE30\uBCF8\uAC12(1362872399)"
+    100034: "\uAE30\uBCF8\uAC12(2724430063)"
+    100036: "\uAE30\uBCF8\uAC12(3029256376)"
+    100038: "\uAE30\uBCF8\uAC12(3396976523)"
+    100040: "\uB098\uBB34 \uD568 \uB2EB\uD798"
+    100042: "\uB808\uC774\uC5B4 01"
+    100044: "\uB808\uC774\uC5B4 01 1"
+    100046: "\uB808\uC774\uC5B4 01 10"
+    100048: "\uB808\uC774\uC5B4 01 11"
+    100050: "\uB808\uC774\uC5B4 01 12"
+    100052: "\uB808\uC774\uC5B4 01 13"
+    100054: "\uB808\uC774\uC5B4 01 14"
+    100056: "\uB808\uC774\uC5B4 01 15"
+    100058: "\uB808\uC774\uC5B4 01 16"
+    100060: "\uB808\uC774\uC5B4 01 2"
+    100062: "\uB808\uC774\uC5B4 01 3"
+    100064: "\uB808\uC774\uC5B4 01 4"
+    100066: "\uB808\uC774\uC5B4 01 5"
+    100068: "\uB808\uC774\uC5B4 01 6"
+    100070: "\uB808\uC774\uC5B4 01 7"
+    100072: "\uB808\uC774\uC5B4 01 8"
+    100074: "\uB808\uC774\uC5B4 01 9"
+    100076: "\uB808\uC774\uC5B4 01(2465307612)"
+    100078: "\uB808\uC774\uC5B4 01(2592390220)"
+    100080: "\uB808\uC774\uC5B4 01(2779894712)"
+    100082: "\uB808\uC774\uC5B4 01(3644597021)"
+    100084: "\uB808\uC774\uC5B4 01(3693612922)"
+    100086: "\uB808\uC774\uC5B4 01(3782875005)"
+    100088: "\uB808\uC774\uC5B4 01(4088345308)"
+    100090: "\uB808\uC774\uC5B4 01(686031051)"
+    100092: "\uB808\uC774\uC5B4 02"
+    100094: "\uB808\uC774\uC5B4 02 1"
+    100096: "\uB808\uC774\uC5B4 02 2"
+    100098: "\uB808\uC774\uC5B4 02 3"
+    100100: "\uB808\uC774\uC5B4 02(113126908)"
+    400000: Active Camera
+    400002: //RootNode
+    400004: Default
+    400006: Front
+    400008: Perspective
+    400010: Right
+    400012: Top
+    400014: "\uAE30\uBCF8\uAC12"
+    400016: "\uAE30\uBCF8\uAC12 1"
+    400018: "\uAE30\uBCF8\uAC12 2"
+    400020: "\uAE30\uBCF8\uAC12 3"
+    400022: "\uAE30\uBCF8\uAC12 4"
+    400024: "\uAE30\uBCF8\uAC12 5"
+    400026: "\uAE30\uBCF8\uAC12 6"
+    400028: "\uAE30\uBCF8\uAC12 7"
+    400030: "\uAE30\uBCF8\uAC12 8"
+    400032: "\uAE30\uBCF8\uAC12(1362872399)"
+    400034: "\uAE30\uBCF8\uAC12(2724430063)"
+    400036: "\uAE30\uBCF8\uAC12(3029256376)"
+    400038: "\uAE30\uBCF8\uAC12(3396976523)"
+    400040: "\uB098\uBB34 \uD568 \uB2EB\uD798"
+    400042: "\uB808\uC774\uC5B4 01"
+    400044: "\uB808\uC774\uC5B4 01 1"
+    400046: "\uB808\uC774\uC5B4 01 10"
+    400048: "\uB808\uC774\uC5B4 01 11"
+    400050: "\uB808\uC774\uC5B4 01 12"
+    400052: "\uB808\uC774\uC5B4 01 13"
+    400054: "\uB808\uC774\uC5B4 01 14"
+    400056: "\uB808\uC774\uC5B4 01 15"
+    400058: "\uB808\uC774\uC5B4 01 16"
+    400060: "\uB808\uC774\uC5B4 01 2"
+    400062: "\uB808\uC774\uC5B4 01 3"
+    400064: "\uB808\uC774\uC5B4 01 4"
+    400066: "\uB808\uC774\uC5B4 01 5"
+    400068: "\uB808\uC774\uC5B4 01 6"
+    400070: "\uB808\uC774\uC5B4 01 7"
+    400072: "\uB808\uC774\uC5B4 01 8"
+    400074: "\uB808\uC774\uC5B4 01 9"
+    400076: "\uB808\uC774\uC5B4 01(2465307612)"
+    400078: "\uB808\uC774\uC5B4 01(2592390220)"
+    400080: "\uB808\uC774\uC5B4 01(2779894712)"
+    400082: "\uB808\uC774\uC5B4 01(3644597021)"
+    400084: "\uB808\uC774\uC5B4 01(3693612922)"
+    400086: "\uB808\uC774\uC5B4 01(3782875005)"
+    400088: "\uB808\uC774\uC5B4 01(4088345308)"
+    400090: "\uB808\uC774\uC5B4 01(686031051)"
+    400092: "\uB808\uC774\uC5B4 02"
+    400094: "\uB808\uC774\uC5B4 02 1"
+    400096: "\uB808\uC774\uC5B4 02 2"
+    400098: "\uB808\uC774\uC5B4 02 3"
+    400100: "\uB808\uC774\uC5B4 02(113126908)"
+    2000000: Active Camera
+    2000002: Front
+    2000004: Perspective
+    2000006: Right
+    2000008: Top
+    2100000: Dark Wood
+    2100002: Bronze Rusted
+    2100004: 'Bronze Rusted #1'
+    2300000: "\uAE30\uBCF8\uAC12 5"
+    2300002: "\uAE30\uBCF8\uAC12 6"
+    2300004: "\uAE30\uBCF8\uAC12 7"
+    2300006: "\uAE30\uBCF8\uAC12 8"
+    2300008: "\uB808\uC774\uC5B4 01 10"
+    2300010: "\uB808\uC774\uC5B4 01 11"
+    2300012: "\uB808\uC774\uC5B4 01 12"
+    2300014: "\uB808\uC774\uC5B4 01 13"
+    2300016: "\uB808\uC774\uC5B4 01 14"
+    2300018: "\uB808\uC774\uC5B4 01 15"
+    2300020: "\uB808\uC774\uC5B4 01 16"
+    2300022: "\uB808\uC774\uC5B4 01 9"
+    2300024: "\uB808\uC774\uC5B4 02 1"
+    2300026: "\uB808\uC774\uC5B4 02 3"
+    3300000: "\uAE30\uBCF8\uAC12 5"
+    3300002: "\uAE30\uBCF8\uAC12 6"
+    3300004: "\uAE30\uBCF8\uAC12 7"
+    3300006: "\uAE30\uBCF8\uAC12 8"
+    3300008: "\uB808\uC774\uC5B4 01 10"
+    3300010: "\uB808\uC774\uC5B4 01 11"
+    3300012: "\uB808\uC774\uC5B4 01 12"
+    3300014: "\uB808\uC774\uC5B4 01 13"
+    3300016: "\uB808\uC774\uC5B4 01 14"
+    3300018: "\uB808\uC774\uC5B4 01 15"
+    3300020: "\uB808\uC774\uC5B4 01 16"
+    3300022: "\uB808\uC774\uC5B4 01 9"
+    3300024: "\uB808\uC774\uC5B4 02 1"
+    3300026: "\uB808\uC774\uC5B4 02 3"
+    4300000: "\uAE30\uBCF8\uAC12"
+    4300002: "\uAE30\uBCF8\uAC12"
+    4300004: "\uAE30\uBCF8\uAC12"
+    4300006: "\uAE30\uBCF8\uAC12"
+    4300008: "\uB808\uC774\uC5B4 01"
+    4300010: "\uB808\uC774\uC5B4 01"
+    4300012: "\uB808\uC774\uC5B4 01"
+    4300014: "\uB808\uC774\uC5B4 01"
+    4300016: "\uB808\uC774\uC5B4 01"
+    4300018: "\uB808\uC774\uC5B4 01"
+    4300020: "\uB808\uC774\uC5B4 01"
+    4300022: "\uB808\uC774\uC5B4 01"
+    4300024: "\uB808\uC774\uC5B4 02"
+    4300026: "\uB808\uC774\uC5B4 02"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

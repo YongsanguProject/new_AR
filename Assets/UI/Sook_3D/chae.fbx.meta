@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: d6d5a2de5b1a84b53969a37448d69455
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Active Camera
+    100002: //RootNode
+    100004: Default
+    100006: Front
+    100008: Perspective
+    100010: Right
+    100012: Top
+    100014: "\uAE30\uBCF8\uAC12"
+    100016: "\uAE30\uBCF8\uAC12 1"
+    100018: "\uB730\uCC44"
+    100020: "\uB808\uC774\uC5B4 02"
+    100022: "\uB808\uC774\uC5B4 02 1"
+    100024: "\uB808\uC774\uC5B4 02 2"
+    100026: "\uB808\uC774\uC5B4 02 3"
+    100028: "\uB808\uC774\uC5B4 02 4"
+    100030: "\uB808\uC774\uC5B4 02 5"
+    100032: "\uB808\uC774\uC5B4 02 6"
+    100034: "\uB808\uC774\uC5B4 02 7"
+    100036: "\uB808\uC774\uC5B4 02(1143101938)"
+    100038: "\uB808\uC774\uC5B4 02(1723397560)"
+    100040: "\uB808\uC774\uC5B4 02(2043093913)"
+    100042: "\uB808\uC774\uC5B4 03"
+    100044: "\uB808\uC774\uC5B4 03 1"
+    100046: "\uB808\uC774\uC5B4 03 2"
+    100048: "\uB808\uC774\uC5B4 03(3175189684)"
+    100050: "\uCC9C"
+    100052: "\uCC9C 1"
+    100054: "\uCC9C 2"
+    100056: "\uCC9C(4250854679)"
+    400000: Active Camera
+    400002: //RootNode
+    400004: Default
+    400006: Front
+    400008: Perspective
+    400010: Right
+    400012: Top
+    400014: "\uAE30\uBCF8\uAC12"
+    400016: "\uAE30\uBCF8\uAC12 1"
+    400018: "\uB730\uCC44"
+    400020: "\uB808\uC774\uC5B4 02"
+    400022: "\uB808\uC774\uC5B4 02 1"
+    400024: "\uB808\uC774\uC5B4 02 2"
+    400026: "\uB808\uC774\uC5B4 02 3"
+    400028: "\uB808\uC774\uC5B4 02 4"
+    400030: "\uB808\uC774\uC5B4 02 5"
+    400032: "\uB808\uC774\uC5B4 02 6"
+    400034: "\uB808\uC774\uC5B4 02 7"
+    400036: "\uB808\uC774\uC5B4 02(1143101938)"
+    400038: "\uB808\uC774\uC5B4 02(1723397560)"
+    400040: "\uB808\uC774\uC5B4 02(2043093913)"
+    400042: "\uB808\uC774\uC5B4 03"
+    400044: "\uB808\uC774\uC5B4 03 1"
+    400046: "\uB808\uC774\uC5B4 03 2"
+    400048: "\uB808\uC774\uC5B4 03(3175189684)"
+    400050: "\uCC9C"
+    400052: "\uCC9C 1"
+    400054: "\uCC9C 2"
+    400056: "\uCC9C(4250854679)"
+    2000000: Active Camera
+    2000002: Front
+    2000004: Perspective
+    2000006: Right
+    2000008: Top
+    2100000: Aluminum Rough
+    2100002: Paint Textured Black
+    2100004: Translucent 100mm
+    2100006: 'Cloth Weave White 1mm #1'
+    2300000: "\uAE30\uBCF8\uAC12 1"
+    2300002: "\uB808\uC774\uC5B4 02 1"
+    2300004: "\uB808\uC774\uC5B4 02 5"
+    2300006: "\uB808\uC774\uC5B4 02 6"
+    2300008: "\uB808\uC774\uC5B4 02 7"
+    2300010: "\uB808\uC774\uC5B4 03 2"
+    2300012: "\uCC9C 2"
+    3300000: "\uAE30\uBCF8\uAC12 1"
+    3300002: "\uB808\uC774\uC5B4 02 1"
+    3300004: "\uB808\uC774\uC5B4 02 5"
+    3300006: "\uB808\uC774\uC5B4 02 6"
+    3300008: "\uB808\uC774\uC5B4 02 7"
+    3300010: "\uB808\uC774\uC5B4 03 2"
+    3300012: "\uCC9C 2"
+    4300000: "\uAE30\uBCF8\uAC12"
+    4300002: "\uB808\uC774\uC5B4 03"
+    4300004: "\uB808\uC774\uC5B4 02"
+    4300006: "\uB808\uC774\uC5B4 02"
+    4300008: "\uB808\uC774\uC5B4 02"
+    4300010: "\uB808\uC774\uC5B4 02"
+    4300012: "\uCC9C"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

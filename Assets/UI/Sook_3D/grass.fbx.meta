@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: abd43d08b8d6543b78dfc3efb483cc87
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Active Camera
+    100002: Default
+    100004: Front
+    100006: //RootNode
+    100008: Perspective
+    100010: Right
+    100012: Top
+    100014: "\uB808\uC774\uC5B4 04"
+    100016: "\uB808\uC774\uC5B4 04 1"
+    100018: "\uB808\uC774\uC5B4 04 10"
+    100020: "\uB808\uC774\uC5B4 04 11"
+    100022: "\uB808\uC774\uC5B4 04 12"
+    100024: "\uB808\uC774\uC5B4 04 13"
+    100026: "\uB808\uC774\uC5B4 04 14"
+    100028: "\uB808\uC774\uC5B4 04 15"
+    100030: "\uB808\uC774\uC5B4 04 16"
+    100032: "\uB808\uC774\uC5B4 04 17"
+    100034: "\uB808\uC774\uC5B4 04 18"
+    100036: "\uB808\uC774\uC5B4 04 19"
+    100038: "\uB808\uC774\uC5B4 04 2"
+    100040: "\uB808\uC774\uC5B4 04 20"
+    100042: "\uB808\uC774\uC5B4 04 21"
+    100044: "\uB808\uC774\uC5B4 04 22"
+    100046: "\uB808\uC774\uC5B4 04 23"
+    100048: "\uB808\uC774\uC5B4 04 24"
+    100050: "\uB808\uC774\uC5B4 04 25"
+    100052: "\uB808\uC774\uC5B4 04 26"
+    100054: "\uB808\uC774\uC5B4 04 27"
+    100056: "\uB808\uC774\uC5B4 04 28"
+    100058: "\uB808\uC774\uC5B4 04 29"
+    100060: "\uB808\uC774\uC5B4 04 3"
+    100062: "\uB808\uC774\uC5B4 04 30"
+    100064: "\uB808\uC774\uC5B4 04 31"
+    100066: "\uB808\uC774\uC5B4 04 32"
+    100068: "\uB808\uC774\uC5B4 04 33"
+    100070: "\uB808\uC774\uC5B4 04 34"
+    100072: "\uB808\uC774\uC5B4 04 35"
+    100074: "\uB808\uC774\uC5B4 04 36"
+    100076: "\uB808\uC774\uC5B4 04 37"
+    100078: "\uB808\uC774\uC5B4 04 38"
+    100080: "\uB808\uC774\uC5B4 04 39"
+    100082: "\uB808\uC774\uC5B4 04 4"
+    100084: "\uB808\uC774\uC5B4 04 40"
+    100086: "\uB808\uC774\uC5B4 04 5"
+    100088: "\uB808\uC774\uC5B4 04 6"
+    100090: "\uB808\uC774\uC5B4 04 7"
+    100092: "\uB808\uC774\uC5B4 04 8"
+    100094: "\uB808\uC774\uC5B4 04 9"
+    100096: "\uB808\uC774\uC5B4 04(1218632555)"
+    100098: "\uB808\uC774\uC5B4 04(1490041818)"
+    100100: "\uB808\uC774\uC5B4 04(1558471122)"
+    100102: "\uB808\uC774\uC5B4 04(1664622684)"
+    100104: "\uB808\uC774\uC5B4 04(196799050)"
+    100106: "\uB808\uC774\uC5B4 04(2468906812)"
+    100108: "\uB808\uC774\uC5B4 04(2536634435)"
+    100110: "\uB808\uC774\uC5B4 04(2838828359)"
+    100112: "\uB808\uC774\uC5B4 04(2991812976)"
+    100114: "\uB808\uC774\uC5B4 04(3484247131)"
+    100116: "\uB808\uC774\uC5B4 04(3935683019)"
+    100118: "\uB808\uC774\uC5B4 04(4038019467)"
+    100120: "\uB808\uC774\uC5B4 04(4116270505)"
+    100122: "\uB808\uC774\uC5B4 04(4118365524)"
+    100124: "\uB808\uC774\uC5B4 04(4128598976)"
+    100126: "\uB808\uC774\uC5B4 04(4226414812)"
+    100128: "\uB808\uC774\uC5B4 04(466664093)"
+    100130: "\uB808\uC774\uC5B4 04(541796038)"
+    100132: "\uB808\uC774\uC5B4 04(688467749)"
+    100134: "\uB808\uC774\uC5B4 04(771789540)"
+    100136: "\uD480"
+    400000: Active Camera
+    400002: Default
+    400004: Front
+    400006: //RootNode
+    400008: Perspective
+    400010: Right
+    400012: Top
+    400014: "\uB808\uC774\uC5B4 04"
+    400016: "\uB808\uC774\uC5B4 04 1"
+    400018: "\uB808\uC774\uC5B4 04 10"
+    400020: "\uB808\uC774\uC5B4 04 11"
+    400022: "\uB808\uC774\uC5B4 04 12"
+    400024: "\uB808\uC774\uC5B4 04 13"
+    400026: "\uB808\uC774\uC5B4 04 14"
+    400028: "\uB808\uC774\uC5B4 04 15"
+    400030: "\uB808\uC774\uC5B4 04 16"
+    400032: "\uB808\uC774\uC5B4 04 17"
+    400034: "\uB808\uC774\uC5B4 04 18"
+    400036: "\uB808\uC774\uC5B4 04 19"
+    400038: "\uB808\uC774\uC5B4 04 2"
+    400040: "\uB808\uC774\uC5B4 04 20"
+    400042: "\uB808\uC774\uC5B4 04 21"
+    400044: "\uB808\uC774\uC5B4 04 22"
+    400046: "\uB808\uC774\uC5B4 04 23"
+    400048: "\uB808\uC774\uC5B4 04 24"
+    400050: "\uB808\uC774\uC5B4 04 25"
+    400052: "\uB808\uC774\uC5B4 04 26"
+    400054: "\uB808\uC774\uC5B4 04 27"
+    400056: "\uB808\uC774\uC5B4 04 28"
+    400058: "\uB808\uC774\uC5B4 04 29"
+    400060: "\uB808\uC774\uC5B4 04 3"
+    400062: "\uB808\uC774\uC5B4 04 30"
+    400064: "\uB808\uC774\uC5B4 04 31"
+    400066: "\uB808\uC774\uC5B4 04 32"
+    400068: "\uB808\uC774\uC5B4 04 33"
+    400070: "\uB808\uC774\uC5B4 04 34"
+    400072: "\uB808\uC774\uC5B4 04 35"
+    400074: "\uB808\uC774\uC5B4 04 36"
+    400076: "\uB808\uC774\uC5B4 04 37"
+    400078: "\uB808\uC774\uC5B4 04 38"
+    400080: "\uB808\uC774\uC5B4 04 39"
+    400082: "\uB808\uC774\uC5B4 04 4"
+    400084: "\uB808\uC774\uC5B4 04 40"
+    400086: "\uB808\uC774\uC5B4 04 5"
+    400088: "\uB808\uC774\uC5B4 04 6"
+    400090: "\uB808\uC774\uC5B4 04 7"
+    400092: "\uB808\uC774\uC5B4 04 8"
+    400094: "\uB808\uC774\uC5B4 04 9"
+    400096: "\uB808\uC774\uC5B4 04(1218632555)"
+    400098: "\uB808\uC774\uC5B4 04(1490041818)"
+    400100: "\uB808\uC774\uC5B4 04(1558471122)"
+    400102: "\uB808\uC774\uC5B4 04(1664622684)"
+    400104: "\uB808\uC774\uC5B4 04(196799050)"
+    400106: "\uB808\uC774\uC5B4 04(2468906812)"
+    400108: "\uB808\uC774\uC5B4 04(2536634435)"
+    400110: "\uB808\uC774\uC5B4 04(2838828359)"
+    400112: "\uB808\uC774\uC5B4 04(2991812976)"
+    400114: "\uB808\uC774\uC5B4 04(3484247131)"
+    400116: "\uB808\uC774\uC5B4 04(3935683019)"
+    400118: "\uB808\uC774\uC5B4 04(4038019467)"
+    400120: "\uB808\uC774\uC5B4 04(4116270505)"
+    400122: "\uB808\uC774\uC5B4 04(4118365524)"
+    400124: "\uB808\uC774\uC5B4 04(4128598976)"
+    400126: "\uB808\uC774\uC5B4 04(4226414812)"
+    400128: "\uB808\uC774\uC5B4 04(466664093)"
+    400130: "\uB808\uC774\uC5B4 04(541796038)"
+    400132: "\uB808\uC774\uC5B4 04(688467749)"
+    400134: "\uB808\uC774\uC5B4 04(771789540)"
+    400136: "\uD480"
+    2000000: Active Camera
+    2000002: Front
+    2000004: Perspective
+    2000006: Right
+    2000008: Top
+    2100000: Paint Matte Green
+    2300000: "\uB808\uC774\uC5B4 04 21"
+    2300002: "\uB808\uC774\uC5B4 04 22"
+    2300004: "\uB808\uC774\uC5B4 04 23"
+    2300006: "\uB808\uC774\uC5B4 04 24"
+    2300008: "\uB808\uC774\uC5B4 04 25"
+    2300010: "\uB808\uC774\uC5B4 04 26"
+    2300012: "\uB808\uC774\uC5B4 04 27"
+    2300014: "\uB808\uC774\uC5B4 04 28"
+    2300016: "\uB808\uC774\uC5B4 04 29"
+    2300018: "\uB808\uC774\uC5B4 04 30"
+    2300020: "\uB808\uC774\uC5B4 04 31"
+    2300022: "\uB808\uC774\uC5B4 04 32"
+    2300024: "\uB808\uC774\uC5B4 04 33"
+    2300026: "\uB808\uC774\uC5B4 04 34"
+    2300028: "\uB808\uC774\uC5B4 04 35"
+    2300030: "\uB808\uC774\uC5B4 04 36"
+    2300032: "\uB808\uC774\uC5B4 04 37"
+    2300034: "\uB808\uC774\uC5B4 04 38"
+    2300036: "\uB808\uC774\uC5B4 04 39"
+    2300038: "\uB808\uC774\uC5B4 04 40"
+    3300000: "\uB808\uC774\uC5B4 04 21"
+    3300002: "\uB808\uC774\uC5B4 04 22"
+    3300004: "\uB808\uC774\uC5B4 04 23"
+    3300006: "\uB808\uC774\uC5B4 04 24"
+    3300008: "\uB808\uC774\uC5B4 04 25"
+    3300010: "\uB808\uC774\uC5B4 04 26"
+    3300012: "\uB808\uC774\uC5B4 04 27"
+    3300014: "\uB808\uC774\uC5B4 04 28"
+    3300016: "\uB808\uC774\uC5B4 04 29"
+    3300018: "\uB808\uC774\uC5B4 04 30"
+    3300020: "\uB808\uC774\uC5B4 04 31"
+    3300022: "\uB808\uC774\uC5B4 04 32"
+    3300024: "\uB808\uC774\uC5B4 04 33"
+    3300026: "\uB808\uC774\uC5B4 04 34"
+    3300028: "\uB808\uC774\uC5B4 04 35"
+    3300030: "\uB808\uC774\uC5B4 04 36"
+    3300032: "\uB808\uC774\uC5B4 04 37"
+    3300034: "\uB808\uC774\uC5B4 04 38"
+    3300036: "\uB808\uC774\uC5B4 04 39"
+    3300038: "\uB808\uC774\uC5B4 04 40"
+    4300000: "\uB808\uC774\uC5B4 04"
+    4300002: "\uB808\uC774\uC5B4 04"
+    4300004: "\uB808\uC774\uC5B4 04"
+    4300006: "\uB808\uC774\uC5B4 04"
+    4300008: "\uB808\uC774\uC5B4 04"
+    4300010: "\uB808\uC774\uC5B4 04"
+    4300012: "\uB808\uC774\uC5B4 04"
+    4300014: "\uB808\uC774\uC5B4 04"
+    4300016: "\uB808\uC774\uC5B4 04"
+    4300018: "\uB808\uC774\uC5B4 04"
+    4300020: "\uB808\uC774\uC5B4 04"
+    4300022: "\uB808\uC774\uC5B4 04"
+    4300024: "\uB808\uC774\uC5B4 04"
+    4300026: "\uB808\uC774\uC5B4 04"
+    4300028: "\uB808\uC774\uC5B4 04"
+    4300030: "\uB808\uC774\uC5B4 04"
+    4300032: "\uB808\uC774\uC5B4 04"
+    4300034: "\uB808\uC774\uC5B4 04"
+    4300036: "\uB808\uC774\uC5B4 04"
+    4300038: "\uB808\uC774\uC5B4 04"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

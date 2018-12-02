@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Soonheon" size="20000.000000 15000.000000" />
+    <ImageTarget name="BlindAlley" size="20000.000000 6328.502441" />
+    <ImageTarget name="EGG" size="20000.000000 6186.440918" />
+    <ImageTarget name="Library" size="10000.000000 8947.368164" />
+    <ImageTarget name="sundarae" size="20000.000000 8471.615234" />
+  </Tracking>
+</QCARConfig>
